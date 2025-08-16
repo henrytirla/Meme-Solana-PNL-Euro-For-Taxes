@@ -53,6 +53,6 @@ Transform your Solana trading data into comprehensive, beautifully formatted Exc
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/henrytirla/SolanaMeme-TaxReports/
-cd Meme-Solana-PNL-Euro-For-Taxes
+cd SolanaMeme-TaxReports
 pip install -r requirements.txt
 
