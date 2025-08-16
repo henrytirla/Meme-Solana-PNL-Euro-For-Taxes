@@ -1,4 +1,4 @@
-# 🚀 Solana Wallet Analytics & Reporting Tool
+# 🚀 Solana Meme Transaction & Tax Reporting Tool
 
 ## 📊 Professional Trading Analytics for Solana Wallets
 
