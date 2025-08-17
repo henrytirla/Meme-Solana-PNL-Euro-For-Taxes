@@ -5,8 +5,11 @@
 Transform your Solana trading data into comprehensive, beautifully formatted Excel reports with advanced analytics and insights. This powerful Python tool connects to Dune Analytics to fetch real-time blockchain data and generates professional-grade reports for traders, analysts, and portfolio managers.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-Commercial-green.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
+
+<!-- ![License](https://img.shields.io/badge/License-MIT-blue.svg) -->
+<!-- This is a comment -->
 
 ## ✨ Key Features
 
